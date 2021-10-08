@@ -1,0 +1,4 @@
+Circular_queue implemented using (ARRAY) Dynamic memory allocation.
+Linear_queue implemented using (ARRAY) Dynamic memory allocation.
+Linked_List Implemented using node dynaically.
+Struct_stuentght implemented using struct array concept.
